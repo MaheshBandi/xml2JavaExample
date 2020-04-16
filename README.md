@@ -1,2 +1,1 @@
-# JavaWebServices
-Maven Project to convert XML Schema to Java Objects
+This is a example to convert the XML Schema to Java Classes and test the generated the classes
